@@ -1,3 +1,7 @@
+
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/231378fd-a4bf-4ad4-bf2f-0a6d11b3f902" />
+<br>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -7,7 +11,7 @@
 <img src="https://img.shields.io/badge/Best_Accuracy-~89--91%25-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 # 💬 Sentiment Analysis Using NLP & Machine Learning
 ### *IMDb Reviews · TF-IDF · Logistic Regression · SVM · Random Forest · Naive Bayes*
